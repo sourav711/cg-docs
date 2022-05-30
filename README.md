@@ -25,7 +25,7 @@ Via a REST API it must be possible to:
 - View details of folder
 - List recent files
 
-
+A POSTman collection for the above APIs should be a part of the solution.
 User management and authentication is a plus. The data have to be persisted in SQL Server using EF Core.
 
 ## The Frontend:
