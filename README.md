@@ -6,6 +6,7 @@ Please use the following libraries and versions:
    - HTML5
    - CSS3
    - Javascript
+   - MSSQL Server Database
 
 ## The APIs:
 We want to create RESTful APIs for creating users and uploading files for different users. The APIs will perform CRUD operations for Users and Files.
@@ -30,6 +31,9 @@ User management and authentication are a plus. The data have to be persisted in 
 
 ## The Frontend:
 For the frontend, refer to *cg-docs-ui.pdf* in the root directory.
+
+## The Database:
+![cg docs schema](https://github.com/cybergroupdevs/cg-docs/raw/main/cg%20docs%20base.png)
 
 
 ## How to work on the assessment:
